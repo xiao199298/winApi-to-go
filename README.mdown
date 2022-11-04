@@ -1,10 +1,9 @@
 About win
 =========
 
-win is a Windows API wrapper package for Go.
+win 是 Go 的 Windows API 包装程序包。
 
-Originally part of [walk](https://github.com/lxn/walk), it is now a separate
-project.
+最初是 [walk](https://github.com/lxn/walk) 的一部分，现在是一个单独的项目。
 
 Setup
 =====
